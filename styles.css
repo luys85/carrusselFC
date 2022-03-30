@@ -80,8 +80,8 @@ h1 {
 .img3 {
   background-image: url(./img/5752.jpeg);
   background-position: center;
-    max-width:auto;
-    height:auto;
+  width: 180px;
+  height: 200px;
 }
 
 .footer {
