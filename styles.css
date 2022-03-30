@@ -80,7 +80,7 @@ h1 {
 .img3 {
   background-image: url(./img/5752.jpeg);
   background-position: center;
-    max-width:100%;
+    max-width:auto;
     height:auto;
 }
 
